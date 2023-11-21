@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MiniBuscaminas</string>
+    <string name="btnNuevo">NUEVO</string>
+    <string name="btnResolver">RESOLVER</string>
+    <string name="msgJugando">¡Jugando!</string>
+    <string name="msgResuelto">RESUELTO</string>
+    <string name="msgGameOver">GAME OVER</string>
+    <string name="lblPuntos">Puntos: </string>
+</resources>
